@@ -1,0 +1,31 @@
+#setup.py
+from setuptools import setup, find_packages
+
+setup(
+    name="agentic_rag",
+    version="0.1.0",
+    packages=find_packages(),
+    install_requires=[
+        "langchain>=0.1.0",
+        "langchain-community>=0.0.10",
+        "langchain-core>=0.1.10",
+        "langchain-ollama>=0.0.1",
+        "langchain-huggingface>=0.0.1",
+        "neo4j>=5.14.0",
+        "transformers>=4.36.0",
+        "sentence-transformers>=2.2.2",
+        "faiss-cpu>=1.7.4",
+        "torch>=2.1.0",
+        "pytest>=8.0.0",
+        "pytest-asyncio>=0.23.0",
+        "pydantic>=2.0.0",
+        "numpy>=1.24.0",
+        "spacy>=3.7.0",
+        "unstructured>=0.11.0",
+        "python-docx>=1.0.0",
+        "PyPDF2>=3.0.0",
+        "pytube>=15.0.0",
+        "whisper>=1.1.10",
+    ],
+    python_requires=">=3.8",
+)

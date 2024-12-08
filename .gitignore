@@ -1,0 +1,5 @@
+/.env
+/.pytest_cache
+/agentic_rag.egg-info
+/data
+/venv

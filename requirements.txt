@@ -1,0 +1,31 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-community>=0.0.10
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Database
+neo4j>=5.14.0
+chromadb==0.4.18  # This version has better compatibility
+
+# Machine Learning & NLP
+torch>=2.1.0
+transformers==4.30.0  # This version works with tokenizers 0.13.3
+tokenizers==0.13.3   # This version satisfies both transformers and chromadb
+sentence-transformers>=2.5.0
+
+# Document Processing
+unstructured>=0.10.0
+spacy>=3.7.2
+PyPDF2>=3.0.0
+
+# Testing
+pytest>=7.4.4
+pytest-asyncio>=0.23.3
+pytest-cov>=4.1.0
+
+# Development
+black>=23.12.1
+isort>=5.13.2
+flake8>=7.0.0
+mypy>=1.8.0
