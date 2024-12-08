@@ -1,4 +1,4 @@
-# Agentic RAG: Retrieval-Augmented Generation with Multi-Agent Orchestration 🤖
+# Agentic Knowledge Graph: Retrieval-Augmented Generation with Multi-Agent Orchestration 🤖
 [![LangChain](https://img.shields.io/badge/LangChain-%23121011.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgNjAwIDYwMCI+CiAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMwMCA1MGMxMzcuNSAwIDI1MCAxMTIuNSAyNTAgMjUwcy0xMTIuNSAyNTAtMjUwIDI1MFM1MCAzODcuNSA1MCAyNTAgMTYyLjUgNTAgMzAwIDUweiIvPgo8L3N2Zz4K)](https://langchain.com/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-%234EA94B.svg?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
